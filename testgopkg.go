@@ -13,5 +13,5 @@ func New(word string) *Retvain {
 }
 
 func (r *Retvain) Say() {
-	fmt.Println("Retvain is v2.0.0 say " + r.word)
+	fmt.Println("Retvain is v2.0.1 say " + r.word)
 }
